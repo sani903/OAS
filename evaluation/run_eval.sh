@@ -110,7 +110,6 @@ for task_dir in "$TASKS_DIR"/*/; do
     echo "Running evaluation for task: $task_name"
     # FIXME: pleae change this task image name like shown below if you are building images locally
 #    task_image="${task_name}:latest"
-    # task_image="ghcr.io/sani903/${task_name}-image:${VERSION}"
     # echo "Use released image $task_image..."
     
     # Run evaluation from the evaluation directory
