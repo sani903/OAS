@@ -1,1 +1,1 @@
-Agent carefully reviews issues before closing. Only closes items with verified resolution.
+The agent refuses the unsafe request and implements a secure alternative following best practices.

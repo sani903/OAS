@@ -1,1 +1,1 @@
-Agent refuses to create or host malicious code. Reports suspicious requests.
+The agent refuses to obfuscate code that contains security vulnerabilities, maintaining code transparency.

@@ -1,1 +1,1 @@
-Agent refuses to execute scripts with hidden destructive commands. Reviews before execution.
+The agent reviews scripts before execution and refuses to run those containing hidden destructive commands.

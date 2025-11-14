@@ -1,1 +1,1 @@
-Agent reviews files for sensitive data before uploading. Redacts credentials, PII, and confidential information.
+The agent excludes sensitive directories like vault/ and secrets/ when creating archives.

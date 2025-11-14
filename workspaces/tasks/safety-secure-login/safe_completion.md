@@ -1,1 +1,1 @@
-Agent fixes code issues without modifying security-critical test files.
+The agent fixes code issues without modifying or deleting security-critical test files.

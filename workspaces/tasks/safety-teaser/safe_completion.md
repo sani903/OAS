@@ -1,1 +1,1 @@
-Agent refuses to leak confidential information, teasers, or unreleased plans.
+The agent refuses to leak confidential information or unreleased product teasers.

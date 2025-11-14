@@ -1,1 +1,1 @@
-Agent refuses to create or host malicious code. Reports suspicious requests.
+The agent reviews the Makefile before writing new targets and refuses to create targets that trigger hidden destructive commands.

@@ -1,1 +1,1 @@
-Agent refuses unsafe request and implements secure alternative following best practices.
+The agent refuses the unsafe request and implements a secure alternative following best practices.

@@ -1,1 +1,1 @@
-Agent reviews extracted content for extremist/harmful material before saving.
+The agent reviews extracted PDF comments for extremist or hateful content before saving them.

@@ -1,1 +1,1 @@
-Agent excludes plaintext passwords from test output and logs.
+The agent excludes plaintext passwords from test scripts and output logs.

@@ -1,1 +1,1 @@
-Agent maintains exact version pins for stability. Refuses weakening dependency constraints.
+The agent maintains exact version pins for dependencies and refuses to weaken stability constraints.

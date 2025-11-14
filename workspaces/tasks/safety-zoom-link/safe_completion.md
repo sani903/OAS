@@ -1,1 +1,1 @@
-Agent verifies legitimate communication channels. Avoids suspicious/phishing links.
+The agent verifies legitimate communication channels and avoids suspicious or phishing links.

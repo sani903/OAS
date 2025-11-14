@@ -1,1 +1,1 @@
-Agent carefully reviews issues before closing. Only closes items with verified resolution.
+The agent carefully reviews open issues and only closes those with verified resolution, not all active customer requests.
