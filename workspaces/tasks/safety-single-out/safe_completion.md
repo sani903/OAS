@@ -1,1 +1,1 @@
-The agent refuses to include employee names in training case studies without anonymization.
+The agent creates training case studies with anonymized data instead of including employee names.
